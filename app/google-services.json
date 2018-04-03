@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "845422024255",
+    "firebase_url": "https://syuping-64500.firebaseio.com",
+    "project_id": "syuping-64500"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845422024255:android:92b4da51b52a9b43",
+        "android_client_info": {
+          "package_name": "com.zannete.syuping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845422024255-4eb6pjep6p8ucvj52uqkt0723j2lcdpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zannete.syuping",
+            "certificate_hash": "e3b1cf3d7126737d16e1f2422bc4572812f875a3"
+          }
+        },
+        {
+          "client_id": "845422024255-n4g5j04qjljklkgldrq7v29g4ckc6uq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-fPqdjDVe-23QBI3C3gSEKw2fEprWQqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845422024255-n4g5j04qjljklkgldrq7v29g4ckc6uq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
