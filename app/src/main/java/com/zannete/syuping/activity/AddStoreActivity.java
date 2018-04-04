@@ -1,4 +1,4 @@
-package com.zannete.syuping;
+package com.zannete.syuping.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,6 +8,7 @@ import android.widget.EditText;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.zannete.syuping.R;
 
 public class AddStoreActivity extends AppCompatActivity {
 
